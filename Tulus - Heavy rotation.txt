@@ -3,5 +3,9 @@ pisannya mahal
 bikin kolak
 yaa habibi
 
+<<<<<<< HEAD
 
 slebew
+=======
+bila sekte sesat
+>>>>>>> 26c1c19db6ce27e5e71b66e0ee90a7869c21558a
