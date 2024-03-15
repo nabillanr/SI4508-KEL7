@@ -2,4 +2,20 @@ ampar ampar pisan
 pisannya mahal
 bikin kolak
 yaa habibi
+<<<<<<< HEAD
 marhaban ya ramadhan, sandrina oon
+=======
+
+<<<<<<< HEAD
+
+
+tulislah bebas
+=======
+<<<<<<< HEAD
+
+slebew
+=======
+bila sekte sesat
+>>>>>>> 26c1c19db6ce27e5e71b66e0ee90a7869c21558a
+>>>>>>> 937a007595fa326cc340934bd6f54f521f62facf
+>>>>>>> 06f281305d51fa1a36b92cf72da10e8f601033fc
